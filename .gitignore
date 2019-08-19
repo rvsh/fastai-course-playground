@@ -1,0 +1,4 @@
+# Ignore ipython checkpoints
+
+.ipynb_checkpoints
+
